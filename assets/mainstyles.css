@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+.box {
+	background: blue;
+	padding: 20px;
+	color: white;
+	width: 200px;
+}
+.testicons {
+    padding: 15px;
+    overflow: hidden;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+.testicons img {
+   margin: 15px;
+}
